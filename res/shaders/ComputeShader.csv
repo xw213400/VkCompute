@@ -1,0 +1,3 @@
+0,uniform,ParameterUBO,0.5
+1,buffer,ParticleSSBOIn,16
+2,buffer,ParticleSSBOOut,16
